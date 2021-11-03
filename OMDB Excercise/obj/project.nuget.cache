@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VUsz3XRu6z2recJRgeOBhQiPhQrA7gxfpnIZR2tXUqc2tBZHbW+sAgIzKWyTj9hJtVAAolroWqd7t2yhKbIwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raston\\source\\repos\\OMDB Excercise\\OMDB Excercise\\OMDB Excercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raston\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

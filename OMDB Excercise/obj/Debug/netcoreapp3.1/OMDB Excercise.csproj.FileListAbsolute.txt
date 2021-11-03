@@ -1,0 +1,43 @@
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\bin\Debug\netcoreapp3.1\OMDB Excercise.exe
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\bin\Debug\netcoreapp3.1\OMDB Excercise.deps.json
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\bin\Debug\netcoreapp3.1\OMDB Excercise.runtimeconfig.json
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\bin\Debug\netcoreapp3.1\OMDB Excercise.runtimeconfig.dev.json
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\bin\Debug\netcoreapp3.1\OMDB Excercise.dll
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\bin\Debug\netcoreapp3.1\OMDB Excercise.pdb
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\bin\Debug\netcoreapp3.1\OMDB Excercise.Views.dll
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\bin\Debug\netcoreapp3.1\OMDB Excercise.Views.pdb
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.csproj.AssemblyReference.cache
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.AssemblyInfoInputs.cache
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.AssemblyInfo.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.csproj.CoreCompileInputs.cache
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.RazorAssemblyInfo.cache
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.RazorAssemblyInfo.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\staticwebassets\OMDB Excercise.StaticWebAssets.Manifest.cache
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\staticwebassets\OMDB Excercise.StaticWebAssets.xml
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\scopedcss\bundle\OMDB Excercise.styles.css
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.TagHelpers.input.cache
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.TagHelpers.output.cache
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.RazorCoreGenerate.cache
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\Razor\Views\Home\MovieNight.cshtml.g.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\Razor\Views\Home\MovieSearch.cshtml.g.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.RazorTargetAssemblyInfo.cache
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.RazorTargetAssemblyInfo.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.Views.pdb
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.dll
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.pdb
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.genruntimeconfig.cache
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\OMDB Excercise.csproj.CopyComplete
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\Razor\Views\Home\MovieNightResults.cshtml.g.cs
+C:\Users\Raston\source\repos\OMDB Excercise\OMDB Excercise\obj\Debug\netcoreapp3.1\Razor\Views\Home\MovieSearchResults.cshtml.g.cs
